@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bootcamp news</string>
+    <string name="bootcamp_news">Bootcamp news</string>
+    <string name="spinnerBasic">Asosiy</string>
+    <string name="spinnerWorld">Dunyo</string>
+    <string name="spinnerSocial">Ijtimoiy</string>
+</resources>
